@@ -1,0 +1,1 @@
+{"version":3,"file":"settings.js","sourceRoot":"","sources":["../../../src/iotComponent/models/settings.ts"],"names":[],"mappings":";;AAAA,MAAa,QAAQ;IAIjB;QACI,IAAI,CAAC,uBAAuB,GAAG,wFAAwF,CAAC;QACxH,IAAI,CAAC,kBAAkB,GAAG,8BAA8B,CAAC;QACzD,IAAI,CAAC,eAAe,GAAG;YACrB,MAAM,EAAE,IAAI;YACZ,UAAU,EAAE,WAAW;YACvB,QAAQ,EAAE,UAAU;YACpB,UAAU,EAAE,OAAO;SACpB,CAAC;IACN,CAAC;CACJ;AAdD,4BAcC"}

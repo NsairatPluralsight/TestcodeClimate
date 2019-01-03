@@ -1,0 +1,1 @@
+{"version":3,"file":"message.js","sourceRoot":"","sources":["../../../src/iotcomponent/models/message.ts"],"names":[],"mappings":";;AAAA,iCAA8B;AAE9B,MAAa,OAAO;IAShB,YAAY,QAAgB;QAP5B,SAAI,GAAW,CAAC,CAAC;QACjB,cAAS,GAAG,IAAI,WAAI,EAAE,CAAC,IAAI,EAAE,CAAC;QAO1B,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC,GAAG,EAAE,CAAC;QACvB,IAAI,CAAC,MAAM,GAAG,KAAK,GAAI,QAAQ,CAAC;IACpC,CAAC;CACJ;AAbD,0BAaC"}
